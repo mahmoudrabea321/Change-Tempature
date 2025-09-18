@@ -34,12 +34,12 @@ This app allows users to easily convert temperatures between **Celsius** and **F
    cd temperature-converter
 ````
 
-2. **Open the project**
-   Just open the `index.html` file in your browser. 🌍
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://change-tempature.vercel.app/)
 
-*No need for Node.js or npm — this is a pure JavaScript project.*
 
 ---
+
 
 ## 📂 Folder Structure
 
@@ -69,4 +69,5 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
