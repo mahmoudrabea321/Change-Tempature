@@ -51,13 +51,7 @@ temperature-converter/
 │-- README.md
 ```
 
----
 
-## 📸 Screenshots
-
-*Add screenshots of your Temperature Converter UI here.*
-
----
 
 ## 📜 License
 
@@ -69,6 +63,7 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
 
